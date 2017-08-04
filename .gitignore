@@ -1,3 +1,6 @@
 docs-gh/
 build/
 docs/
+*.pyc
+*~
+*.swp
